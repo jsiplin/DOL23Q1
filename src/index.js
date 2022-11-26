@@ -34,7 +34,7 @@ import 'chardin.ts/chardinjs.scss';
         './data/boundary_marylands_counties.json')
         document.querySelector("#body").innerHTML = `
         <div class="Title">
-			<p>Welcome to the Maryland Area Explorer! (Last Updated 10/1/22)</p>
+			<p>Welcome to the Maryland Area Explorer! (Last Updated DOL4 INPROGRESS)</p>
         </div>
         <div class="Body">
 			<p>The Maryland Area Explorer turns complex labor market information data into easy-to-understand charts and graphs. To get started, select a county from the dropdown menus or from the map below.</p>
