@@ -1,4 +1,4 @@
-
+Time,Indicator,Employment_Status,Indicator_Status,Location,Amount,Unemployment_Rate,,,,
 2020,Employment Status By Disability Status,Labor Force,Disabled,"Allegany County, Maryland",2462,,,,
 2020,Employment Status By Disability Status,Labor Force,Disabled,"Anne Arundel County, Maryland",15280,,,,
 2020,Employment Status By Disability Status,Labor Force,Disabled,"Baltimore City, Maryland",19308,,,,
@@ -6442,4 +6442,5 @@
 2021Q1,TANF Workers,,,"Washington County, Maryland",122,,,,,
 2021Q1,TANF Workers,,,"Wicomico County, Maryland",103,,,,,
 2021Q1,TANF Workers,,,"Worcester County, Maryland",41,,,,,
-Time,Indicator,Employment_Status,Indicator_Status,Location,Amount,Unemployment_Rate,,,,
+
+
