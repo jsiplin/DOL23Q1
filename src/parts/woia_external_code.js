@@ -751,8 +751,8 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         </tr>
        </thead>
        <tbody>
-          ${showLbldRecordGend('Male', gsepdata2017Q4, gsepdata2018Q1, gsepdata2018Q2, gsepdata2018Q3, gsepdata2018Q4, gsepdata2019Q1, gsepdata2019Q2, gsepdata2019Q3, gsepdata2019Q4, gsepdata2020Q1, gsepdata2020Q2, gsepdata2020Q3, gsepdata2020Q4, gsepdata2021Q1, gsepdata2021Q2, gsepdata2021Q3, 0)}
-          ${showLbldRecordGend('Female', gsepdata2017Q4, gsepdata2018Q1, gsepdata2018Q2, gsepdata2018Q3, gsepdata2018Q4, gsepdata2019Q1, gsepdata2019Q2, gsepdata2019Q3, gsepdata2019Q4, gsepdata2020Q1, gsepdata2020Q2, gsepdata2020Q3, gsepdata2020Q4, gsepdata2021Q1, gsepdata2021Q2, gsepdata2021Q3, 1)}
+          ${showLbldRecordGend('Male', gsepdata2018Q1, gsepdata2018Q2, gsepdata2018Q3, gsepdata2018Q4, gsepdata2019Q1, gsepdata2019Q2, gsepdata2019Q3, gsepdata2019Q4, gsepdata2020Q1, gsepdata2020Q2, gsepdata2020Q3, gsepdata2020Q4, gsepdata2021Q1, gsepdata2021Q2, gsepdata2021Q3, gsepdata2021Q4, 0)}
+          ${showLbldRecordGend('Female', gsepdata2018Q1, gsepdata2018Q2, gsepdata2018Q3, gsepdata2018Q4, gsepdata2019Q1, gsepdata2019Q2, gsepdata2019Q3, gsepdata2019Q4, gsepdata2020Q1, gsepdata2020Q2, gsepdata2020Q3, gsepdata2020Q4, gsepdata2021Q1, gsepdata2021Q2, gsepdata2021Q3, gsepdata2021Q4, 1)}
        </tbody>
        <thead>
         <tr> <th class="HeadRow">Separations by Education</th> 
@@ -775,11 +775,11 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         </tr>
        </thead>
        <tbody>
-          ${showLbldRecordEdu('Less than High school', esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, 1)}
-          ${showLbldRecordEdu('High school', esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, 2)}
-          ${showLbldRecordEdu('Some College', esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, 3)}
-          ${showLbldRecordEdu("Bachelor's or Higher", esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, 4)}
-          ${showLbldRecordEdu('Educational attainment not reported (workers aged 24 or younger)', esepdata2017Q4, esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, 0)}
+          ${showLbldRecordEdu('Less than High school', esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, 1)}
+          ${showLbldRecordEdu('High school', esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, 2)}
+          ${showLbldRecordEdu('Some College', esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, 3)}
+          ${showLbldRecordEdu("Bachelor's or Higher", esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, 4)}
+          ${showLbldRecordEdu('Educational attainment not reported (workers aged 24 or younger)', esepdata2018Q1, esepdata2018Q2, esepdata2018Q3, esepdata2018Q4, esepdata2019Q1, esepdata2019Q2, esepdata2019Q3, esepdata2019Q4, esepdata2020Q1, esepdata2020Q2, esepdata2020Q3, esepdata2020Q4, esepdata2021Q1, esepdata2021Q2, esepdata2021Q3, esepdata2021Q4, 0)}
        </tbody>
        <thead>
         <tr> <th class="HeadRow">Separations by Age</th>
@@ -802,14 +802,14 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
         </tr>
        </thead>
        <tbody>
-        ${showLbldRecordAge('Age 14-18', asepdata2017Q4, asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, 0)}
-        ${showLbldRecordAge('Age 19-21', asepdata2017Q4, asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, 1)}
-        ${showLbldRecordAge('Age 22-24', asepdata2017Q4, asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, 2)}
-        ${showLbldRecordAge('Age 25-34', asepdata2017Q4, asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, 3)}
-        ${showLbldRecordAge('Age 35-44', asepdata2017Q4, asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, 4)}
-        ${showLbldRecordAge('Age 45-54', asepdata2017Q4, asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, 5)}
-        ${showLbldRecordAge('Age 55-64', asepdata2017Q4, asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, 6)}
-        ${showLbldRecordAge('Age 65-99', asepdata2017Q4, asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, 7)}
+        ${showLbldRecordAge('Age 14-18', asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, 0)}
+        ${showLbldRecordAge('Age 19-21', asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, 1)}
+        ${showLbldRecordAge('Age 22-24', asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, 2)}
+        ${showLbldRecordAge('Age 25-34', asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, 3)}
+        ${showLbldRecordAge('Age 35-44', asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, 4)}
+        ${showLbldRecordAge('Age 45-54', asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, 5)}
+        ${showLbldRecordAge('Age 55-64', asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, 6)}
+        ${showLbldRecordAge('Age 65-99', asepdata2018Q1, asepdata2018Q2, asepdata2018Q3, asepdata2018Q4, asepdata2019Q1, asepdata2019Q2, asepdata2019Q3, asepdata2019Q4, asepdata2020Q1, asepdata2020Q2, asepdata2020Q3, asepdata2020Q4, asepdata2021Q1, asepdata2021Q2, asepdata2021Q3, asepdata2021Q4, 7)}
        </tbody>
     `
 console.log(asepdata2020Q2)
