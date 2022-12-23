@@ -92,7 +92,6 @@ Maryland,2017,New Maryland Apprenticeship Programs,,New Maryland Apprenticeship 
 Maryland,2018,New Maryland Apprenticeship Programs,,New Maryland Apprenticeship Programs,,,28,
 Maryland,2019,New Maryland Apprenticeship Programs,,New Maryland Apprenticeship Programs,,,19,
 Maryland,2020,New Maryland Apprenticeship Programs,,New Maryland Apprenticeship Programs,,,19,
-Maryland,2021,New Maryland Apprenticeship Programs,,New Maryland Apprenticeship Programs,,,24,
 
 Maryland,FY15,Apprenticeship,,Program Completers,,,545,
 Maryland,FY16,Apprenticeship,,Program Completers,,,1118,
@@ -120,7 +119,6 @@ Maryland,2017,Maryland Apprentices,,New Apprentices,,,2631,
 Maryland,2018,Maryland Apprentices,,New Apprentices,,,1904,
 Maryland,2019,Maryland Apprentices,,New Apprentices,,,1907,
 Maryland,2020,Maryland Apprentices,,New Apprentices,,,990,
-Maryland,2021,Maryland Apprentices,,New Apprentices,,,1513,
 
 
 Maryland,2016,Maryland Apprentices,,Active Apprentices,,,11821,
@@ -128,7 +126,6 @@ Maryland,2017,Maryland Apprentices,,Active Apprentices,,,9090,
 Maryland,2018,Maryland Apprentices,,Active Apprentices,,,8567,
 Maryland,2019,Maryland Apprentices,,Active Apprentices,,,8887,
 Maryland,2020,Maryland Apprentices,,Active Apprentices,,,8711,
-Maryland,2021,Maryland Apprentices,,Active Apprentices,,,8040,
 
 Maryland,2013,Long Term Unemployed,Unemployed for 27 Weeks or More,Unemployed,,,76000,
 Maryland,2014,Long Term Unemployed,Unemployed for 27 Weeks or More,Unemployed,,,71000,
@@ -138,7 +135,39 @@ Maryland,2017,Long Term Unemployed,Unemployed for 27 Weeks or More,Unemployed,,,
 Maryland,2018,Long Term Unemployed,Unemployed for 27 Weeks or More,Unemployed,,,50679,
 Maryland,2019,Long Term Unemployed,Unemployed for 27 Weeks or More,Unemployed,,,20735,
 Maryland,2020,Long Term Unemployed,Unemployed for 27 Weeks or More,Unemployed,,,10652,
+
+Maryland,2021,New Maryland Apprenticeship Programs,,New Maryland Apprenticeship Programs,,,24,
+Maryland,2021,Maryland Apprentices,,New Apprentices,,,1513,
+Maryland,2021,Maryland Apprentices,,Active Apprentices,,,8040,
 Maryland,2021,Long Term Unemployed,Unemployed for 27 Weeks or More,Unemployed,,,76882,
+Maryland,2021,Employment Status By Education,Bachelor's or Higher,,NIL,,147485,
+Maryland,2021,Unemployment By Gender,Male,,,,4.9,0.049
+Maryland,2021,Employment Status By Disability Status,Disabled,,Unemployed,,21337,
+Maryland,2021,Employment Status By Disability Status,Non Disabled,,Unemployed,,138955,
+Maryland,2021,Unemployment By Gender,Female,,,,5,0.05
+Maryland,2021,Employment Status By Disability Status,Non Disabled,,Employed,,2732997,
+Maryland,2021,Employment Status By Disability Status,Disabled,,Employed,,145744,
+Maryland,2021,Employment Status By Education,Bachelor's or Higher,,Employed,,1222506,
+Maryland,2021,Employment Status By Education,Bachelor's or Higher,,Unemployed,,32893,
+Maryland,2021,Employment Status By Education,Highschool,,Employed,,528808,
+Maryland,2021,Employment Status By Education,Highschool,,Unemployed,,36782,
+Maryland,2021,Employment Status By Education,Highschool,,NIL,,184345,
+Maryland,2021,Employment Status By Poverty Status,Below Poverty,,Employed,,118770,
+Maryland,2021,Employment Status By Poverty Status,Below Poverty,,Unemployed,,39137,
+Maryland,2021,Employment Status By Poverty Status,Below Poverty,,Labor Force,,157907,
+Maryland,2021,Employment Status By Education,Less than Highschool,,Employed,,164030,
+Maryland,2021,Employment Status By Education,Less than Highschool,,Unemployed,,14695,
+Maryland,2021,Employment Status By Education,Less than Highschool,,NIL,,96436,
+Maryland,2021,Unemployment By Veteran Status,Non Veteran,,,,5.4,0.054000000000000006
+Maryland,2021,Unemployment By Veteran Status,Veteran,,,,3.1,0.031
+Maryland,2021,Employment Status By Education,Some College,,Employed,,657582,
+Maryland,2021,Employment Status By Education,Some College,,Unemployed,,32568,
+Maryland,2021,Employment Status By Education,Some College,,NIL,,148362,
+Maryland,2021,Unemployment By Race,Asian,,,,4.3,0.043
+Maryland,2021,Unemployment By Race,White,,,,4,0.04
+Maryland,2021,Unemployment By Race,Black,,,,7.8,0.078
+Maryland,2021,Unemployment By Race,Hispanic,,,,5.5,0.055
+Maryland,2020Q2,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,-2021,
 
 Maryland,2015,Employment Status By Poverty Status,Above Poverty,,Labor Force,,3016531
 Maryland,2016,Employment Status By Poverty Status,Above Poverty,,Labor Force,,3029225
@@ -153,19 +182,25 @@ Maryland,2017,Employment Status By Disability Status,Non Disabled,,Labor Force,,
 Maryland,2018,Employment Status By Disability Status,Disabled,,Labor Force,,155329
 Maryland,2018,Employment Status By Disability Status,Non Disabled,,Labor Force,,2849397
 Maryland,2019,Employment Status By Disability Status,Disabled,,Labor Force,,156487
+Maryland,2020,Employment Status By Disability Status,Disabled,,Labor Force,,159290
+Maryland,2021,Employment Status By Disability Status,Disabled,,Labor Force,,167081
 Maryland,2019,Employment Status By Disability Status,Non Disabled,,Labor Force,,2843711
+Maryland,2021,Employment Status By Disability Status,Non Disabled,,Labor Force,,2871952
+Maryland,2020,Employment Status By Disability Status,Non Disabled,,Labor Force,,2836409
 Maryland,2015,Median Household Income,,,,,74551,
 Maryland,2016,Median Household Income,,,,,76067,
 Maryland,2017,Median Household Income,,,,,78916,
 Maryland,2018,Median Household Income,,,,,81868,
 Maryland,2019,Median Household Income,,,,,84805,
 Maryland,2020,Median Household Income,,,,,87063,
+Maryland,2021,Median Household Income,,,,,91431,
 Maryland,2015,Total Population,,,,,5930538,
 Maryland,2016,Total Population,,,,,5959902,
 Maryland,2017,Total Population,,,,,5996079,
 Maryland,2018,Total Population,,,,,6003435,
 Maryland,2019,Total Population,,,,,6018848,
 Maryland,2020,Total Population,,,,,6037624,
+Maryland,2021,Total Population,,,,,6148545,
 Maryland,2015,Unemployment By Gender,Male,,,,7.1,0.071
 Maryland,2016,Unemployment By Gender,Male,,,,6.4,0.064
 Maryland,2017,Unemployment By Gender,Male,,,,5.8,0.057999999999999996
@@ -764,7 +799,6 @@ Maryland,2016Q2,Maryland Job Net Change by Industry,56,Administrative and Suppor
 Maryland,2018Q2,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,9593,
 Maryland,2017Q2,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,9419,
 Maryland,2019Q2,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,9362,
-Maryland,2020Q2,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,-2021,
 Maryland,2021Q2,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,9810,
 Maryland,2016Q3,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,-285,
 Maryland,2015Q3,Maryland Job Net Change by Industry,56,Administrative and Support and Waste Management and Remediation Services,,Job Change,1459,
