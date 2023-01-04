@@ -82,7 +82,7 @@ import * as dimple from 'dimple';
     //
 
     // Filter Data
-    let pop = dimple.filterData(data, "Time", ["2015", "2016", "2017", "2018", "2019"]);
+    let pop = dimple.filterData(data, "Time", ["2015", "2016", "2017", "2018", "2019", "2020", "2021"]);
     let mhhi = dimple.filterData(pop, "Indicator", "Median Household Income")
     pop = dimple.filterData(pop, "Indicator", "Total Population")
 
@@ -94,6 +94,9 @@ import * as dimple from 'dimple';
       <th>2016</th>
       <th>2017</th>
       <th>2018</th>
+      <th>2019</th>
+      <th>2020</th>
+      <th>2021</th>
     </tr>
     <tr>
       <th>Population</th>

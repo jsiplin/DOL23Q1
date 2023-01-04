@@ -26,7 +26,7 @@ import {createDatasets, configCharts, createChart, configSvgz, zeronulls, cma, f
     //
     // Set variables
     //
-    let fullYears = ['2017', '2018', '2019','2020', '2021',"2022"]
+    let fullYears = ['2017', '2018', '2019','2020', '2021','2022']
     let fullQuarters = ["2017Q1", "2017Q2", "2017Q3", "2017Q4", "2018Q1", "2018Q2", "2018Q3", "2018Q4", "2019Q1", "2019Q2", "2019Q3", "2019Q4", "2020Q1", "2020Q2", "2020Q3", "2020Q4", "2021Q1", "2021Q2", "2021Q3","2021Q4","2022Q1"]
     let ageGender = ["14-18", "19-21", "22-24", "25-34", "35-44", "45-54", "55-64", "65-99", "Female", "Male"]
     //let eduGender = ["Less than High school", "High school", "Some college", "Bachelor's or Higher", "N/A", "Female", "Male"]
