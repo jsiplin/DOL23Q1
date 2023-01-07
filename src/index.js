@@ -93,8 +93,8 @@ import 'chardin.ts/chardinjs.scss';
 				  <option value='data17'>2017</option>
 				  <option value='data18'>2018</option>
 				  <option value='data19'>2019</option>
-				  <option value='data20' selected="selected">2020</option>
-				  <option value='data21'>2021</option>
+				  <option value='data20'>2020</option>
+				  <option value='data21' selected="selected">2021</option>
 				</select>
 				<select  id='dropdownMenuQ' style="display:inline">
 				  <option value='data16q2'>2016-Q2</option>
