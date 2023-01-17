@@ -1,4 +1,24 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q1,A01,14-18,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q1,A02,19-21,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q1,A03,22-24,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q1,A04,25-34,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q1,A05,35-44,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q1,A06,45-54,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q1,A07,55-64,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Age,2022Q1,A08,65-99,TBD
+Workers,Montgomery WIA,Maryland Workers by Age,2022Q1,A01,14-18,TBD
+Workers,Montgomery WIA,Maryland Workers by Age,2022Q1,A02,19-21,TBD
+Workers,Montgomery WIA,Maryland Workers by Age,2022Q1,A03,22-24,TBD
+Workers,Montgomery WIA,Maryland Workers by Age,2022Q1,A04,25-34,TBD
+Workers,Montgomery WIA,Maryland Workers by Age,2022Q1,A05,35-44,TBD
+Workers,Montgomery WIA,Maryland Workers by Age,2022Q1,A06,45-54,TBD
+Workers,Montgomery WIA,Maryland Workers by Age,2022Q1,A07,55-64,TBD
+Workers,Montgomery WIA,Maryland Workers by Age,2022Q1,A08,65-99,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2022Q1,1,Male,TBD
+Earnings,Montgomery WIA,Maryland Average Monthly Earnings by Gender,2022Q1,2,Female,TBD
+Workers,Montgomery WIA,Maryland Workers by Gender,2022Q1,1,Male,TBD
+Workers,Montgomery WIA,Maryland Workers by Gender,2022Q1,2,Female,TBD
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2021Q4,72,Accommodation and Food Services,2837
 Job Change,Montgomery WIA,Maryland Job Net Change by Industry,2021Q4,72,Accommodation and Food Services,277
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2021Q4,72,Accommodation and Food Services,7847

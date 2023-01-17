@@ -1,4 +1,24 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q1,A01,14-18,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q1,A02,19-21,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q1,A03,22-24,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q1,A04,25-34,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q1,A05,35-44,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q1,A06,45-54,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q1,A07,55-64,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Age,2022Q1,A08,65-99,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Age,2022Q1,A01,14-18,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Age,2022Q1,A02,19-21,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Age,2022Q1,A03,22-24,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Age,2022Q1,A04,25-34,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Age,2022Q1,A05,35-44,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Age,2022Q1,A06,45-54,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Age,2022Q1,A07,55-64,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Age,2022Q1,A08,65-99,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q1,1,Male,TBD
+Earnings,Mid-Maryland WIA,Maryland Average Monthly Earnings by Gender,2022Q1,2,Female,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Gender,2022Q1,1,Male,TBD
+Workers,Mid-Maryland WIA,Maryland Workers by Gender,2022Q1,2,Female,TBD
 Earnings,Mid-Maryland WIA,Maryland Average Earnings by Industry,2021Q4,72,Accommodation and Food Services,2312
 Job Change,Mid-Maryland WIA,Maryland Job Net Change by Industry,2021Q4,72,Accommodation and Food Services,164
 New Hires,Mid-Maryland WIA,Maryland New Hires by Industry,2021Q4,72,Accommodation and Food Services,5356

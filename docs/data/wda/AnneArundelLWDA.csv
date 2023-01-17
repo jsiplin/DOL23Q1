@@ -127,6 +127,18 @@ Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q4,A04,25
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q4,A05,35-44,7269
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q4,A06,45-54,8293
 Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2021Q4,A07,55-64,8482
+Workers,Anne Arundel WIA,Maryland Workers by Gender,2022Q1,1,Male,TBD
+Workers,Anne Arundel WIA,Maryland Workers by Gender,2022Q1,2,Female,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2022Q1,1,Male,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Gender,2022Q1,2,Female,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q1,A01,14-18,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q1,A02,19-21,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q1,A03,22-24,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q1,A04,25-34,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q1,A05,35-44,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q1,A06,45-54,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q1,A07,55-64,TBD
+Earnings,Anne Arundel WIA,Maryland Average Monthly Earnings by Age,2022Q1,A08,65-99,TBD
 Workers,Anne Arundel WIA,Maryland Workers by Age,2021Q4,A01,14-18,8263
 Workers,Anne Arundel WIA,Maryland Workers by Age,2021Q4,A02,19-21,11087
 Workers,Anne Arundel WIA,Maryland Workers by Age,2021Q4,A03,22-24,13660
@@ -134,6 +146,14 @@ Workers,Anne Arundel WIA,Maryland Workers by Age,2021Q4,A04,25-34,53485
 Workers,Anne Arundel WIA,Maryland Workers by Age,2021Q4,A05,35-44,51656
 Workers,Anne Arundel WIA,Maryland Workers by Age,2021Q4,A06,45-54,47687
 Workers,Anne Arundel WIA,Maryland Workers by Age,2021Q4,A07,55-64,44559
+Workers,Anne Arundel WIA,Maryland Workers by Age,2022Q1,A01,14-18,TBD
+Workers,Anne Arundel WIA,Maryland Workers by Age,2022Q1,A02,19-21,TBD
+Workers,Anne Arundel WIA,Maryland Workers by Age,2022Q1,A03,22-24,TBD
+Workers,Anne Arundel WIA,Maryland Workers by Age,2022Q1,A04,25-34,TBD
+Workers,Anne Arundel WIA,Maryland Workers by Age,2022Q1,A05,35-44,TBD
+Workers,Anne Arundel WIA,Maryland Workers by Age,2022Q1,A06,45-54,TBD
+Workers,Anne Arundel WIA,Maryland Workers by Age,2022Q1,A07,55-64,TBD
+Workers,Anne Arundel WIA,Maryland Workers by Age,2022Q1,A08,65-99,TBD
 Separations,Anne Arundel WIA,Maryland Separations by Age,2021Q4,A01,14-18,3783
 Separations,Anne Arundel WIA,Maryland Separations by Age,2021Q4,A02,19-21,4538
 Separations,Anne Arundel WIA,Maryland Separations by Age,2021Q4,A03,22-24,4458
