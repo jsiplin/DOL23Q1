@@ -208,13 +208,15 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [pempl_race_ethn_chart, pchart5],
         'svgName': '#empl_race_ethn_chart',
         'data': {
-            data21: [raceData2021, ethData2021],
-            data20: [raceData2020, ethData2020],
-            data19: [raceData2019, ethData2019],
-            data18: [raceData2018, ethData2018],
-            data17: [raceData2017, ethData2017],
-            data16: [raceData2016, ethData2016],
+
             data15: [raceData2015, ethData2015],
+            data16: [raceData2016, ethData2016],
+            data17: [raceData2017, ethData2017],
+            data18: [raceData2018, ethData2018],
+            data19: [raceData2019, ethData2019],
+            data20: [raceData2020, ethData2020],
+            data21: [raceData2021, ethData2021],
+
         }
     }, {
         'tab': 'empl_vet',
@@ -226,13 +228,13 @@ import {createDatasets, configCharts, configSvgz, cma, pcnt, pcnt2, pcnt3, find,
         'pcharts': [empl_vet_print_chart],
         'svgName': '#empl_vet_chart',
         'data': {            
-            data21: [vetData2021],
-            data20: [vetData2020],
-            data19: [vetData2019],
-            data18: [vetData2018],
-            data17: [vetData2017],
-            data16: [vetData2016],
             data15: [vetData2015],
+            data16: [vetData2016],
+            data17: [vetData2017],
+            data18: [vetData2018],
+            data19: [vetData2019],
+            data20: [vetData2020],
+            data21: [vetData2021],
         }
     }, {
         'tab': 'disabl_pov',
