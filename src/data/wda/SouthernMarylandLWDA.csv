@@ -302,7 +302,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q4,61,Edu
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q4,61,Educational Services,4.8
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q1,81,Other Services (except Public Administration),378
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2022Q2,81,Other Services (except Public Administration),0
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,81,Other Services (except Public Administration),0
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2022Q1,61,Educational Services,10471
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q4,81,Other Services (except Public Administration),11.200000000000001
 Workers,Southern Maryland WIA,Maryland Workers by Industry,2017Q1,81,Other Services (except Public Administration),3113
@@ -351,7 +350,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Industry,2019Q2,92,Public Admi
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,72,Accommodation and Food Services,15.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,72,Accommodation and Food Services,16.400000000000002
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,72,Accommodation and Food Services,16.2
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,72,Accommodation and Food Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,72,Accommodation and Food Services,17.299999999999997
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q3,53,Real Estate and Rental and Leasing,-17
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,72,Accommodation and Food Services,17.4
@@ -476,7 +474,6 @@ Workers,Southern Maryland WIA,Maryland Workers by Age,2016Q1,A02,19-21,5158
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2019Q3,31-33,Manufacturing,212
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,31-33,Manufacturing,5.7
 Workers,Southern Maryland WIA,Maryland Workers by Age,2018Q4,A02,19-21,5066
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,31-33,Manufacturing,0
 Workers,Southern Maryland WIA,Maryland Workers by Age,2017Q1,A03,22-24,5707
 Workers,Southern Maryland WIA,Maryland Workers by Age,2021Q3,A03,22-24,5253
 Workers,Southern Maryland WIA,Maryland Workers by Age,2019Q2,A04,25-34,19398
@@ -495,7 +492,6 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q2,21,"Mining
 Separations,Southern Maryland WIA,Maryland Separations by Age,2018Q2,A01,14-18,1085
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",28
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",5
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",10
 Separations,Southern Maryland WIA,Maryland Separations by Age,2015Q1,A02,19-21,1469
 Separations,Southern Maryland WIA,Maryland Separations by Age,2021Q3,A02,19-21,2858
@@ -806,7 +802,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,62,Heal
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,62,Health Care and Social Assistance,8.4
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,62,Health Care and Social Assistance,10
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,62,Health Care and Social Assistance,9
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,62,Health Care and Social Assistance,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,62,Health Care and Social Assistance,8.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,62,Health Care and Social Assistance,8.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,62,Health Care and Social Assistance,8.3
@@ -998,7 +993,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,56,Admi
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,56,Administrative and Support and Waste Management and Remediation Services,12.6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,11.600000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,11.700000000000001
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,12
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,56,Administrative and Support and Waste Management and Remediation Services,12.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,56,Administrative and Support and Waste Management and Remediation Services,11.799999999999999
@@ -1185,7 +1179,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,11,"Agr
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,11,"Agriculture, Forestry, Fishing and Hunting",7.000000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,11,"Agriculture, Forestry, Fishing and Hunting",9.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agriculture, Forestry, Fishing and Hunting",12.1
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,11,"Agriculture, Forestry, Fishing and Hunting",9.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",10.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,11,"Agriculture, Forestry, Fishing and Hunting",8.5
@@ -1348,7 +1341,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,71,"Art
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,71,"Arts, Entertainment, and Recreation",14.399999999999999
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",17.299999999999997
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,71,"Arts, Entertainment, and Recreation",15.1
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,71,"Arts, Entertainment, and Recreation",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",16.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",19
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,71,"Arts, Entertainment, and Recreation",16.8
@@ -1504,7 +1496,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,23,Cons
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,23,Construction,10.6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,23,Construction,8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,7.8
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,23,Construction,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,23,Construction,10.4
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,23,Construction,12.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,23,Construction,13.5
@@ -1665,7 +1656,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,61,Educ
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,61,Educational Services,5.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,6.9
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educational Services,6.6000000000000005
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,61,Educational Services,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,61,Educational Services,5.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,61,Educational Services,5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,61,Educational Services,5.4
@@ -1826,7 +1816,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,52,Fina
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finance and Insurance,6.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance and Insurance,5.800000000000001
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,52,Finance and Insurance,5.8999999999999995
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,52,Finance and Insurance,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,52,Finance and Insurance,6.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance and Insurance,6.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,52,Finance and Insurance,5.6000000000000005
@@ -1989,7 +1978,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,51,Info
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,51,Information,6.9
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information,5.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,51,Information,7.3
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,51,Information,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,51,Information,6.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,51,Information,7.199999999999999
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,51,Information,6.4
@@ -2149,7 +2137,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,55,Mana
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,9.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,55,Management of Companies and Enterprises,7.3999999999999995
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,9.9
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,55,Management of Companies and Enterprises,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,55,Management of Companies and Enterprises,8.5
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,8.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,55,Management of Companies and Enterprises,10.8
@@ -2787,7 +2774,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,54,"Pro
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",7.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",8.6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,54,"Professional, Scientific, and Technical Services",7.5
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,54,"Professional, Scientific, and Technical Services",0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,54,"Professional, Scientific, and Technical Services",7.3999999999999995
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,54,"Professional, Scientific, and Technical Services",8.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,54,"Professional, Scientific, and Technical Services",7.9
@@ -2947,7 +2933,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,92,Publ
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,92,Public Administration,3.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,92,Public Administration,3.8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,4.3
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,92,Public Administration,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,92,Public Administration,4.2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,92,Public Administration,4.1000000000000005
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,5.4
@@ -3105,7 +3090,6 @@ Separations,Southern Maryland WIA,Maryland Separations by Industry,2021Q4,53,Rea
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Estate and Rental and Leasing,8
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Estate and Rental and Leasing,8.6
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,53,Real Estate and Rental and Leasing,7.1
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,53,Real Estate and Rental and Leasing,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,53,Real Estate and Rental and Leasing,7.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate and Rental and Leasing,9
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,53,Real Estate and Rental and Leasing,7.9
@@ -3359,7 +3343,6 @@ Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q2,48-4
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2015Q3,48-49,Transportation and Warehousing,46
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2022Q2,48-49,Transportation and Warehousing,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q3,48-49,Transportation and Warehousing,-56
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,44-45,Retail Trade,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2019Q3,48-49,Transportation and Warehousing,5
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2016Q3,48-49,Transportation and Warehousing,11
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2021Q3,48-49,Transportation and Warehousing,80
@@ -3435,7 +3418,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,T
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,48-49,Transportation and Warehousing,7.9
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,48-49,Transportation and Warehousing,8.4
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,48-49,Transportation and Warehousing,6.2
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,48-49,Transportation and Warehousing,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,48-49,Transportation and Warehousing,7.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q2,48-49,Transportation and Warehousing,6.9
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,48-49,Transportation and Warehousing,6.2
@@ -3604,7 +3586,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,22,Util
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,2.3
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,22,Utilities,2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,22,Utilities,2.8000000000000003
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,22,Utilities,0
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,22,Utilities,2.1
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,22,Utilities,2
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q2,22,Utilities,2
@@ -3728,6 +3709,26 @@ New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2018Q4,42,Wholesa
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2019Q4,42,Wholesale Trade,90
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2021Q4,42,Wholesale Trade,111
 New Hires,Southern Maryland WIA,Maryland New Hires by Industry,2020Q4,42,Wholesale Trade,100
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,81,Other Services (except Public Administration),TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,72,Accommodation and Food Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,31-33,Manufacturing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,62,Health Care and Social Assistance,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,23,Construction,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,61,Educational Services,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,52,Finance and Insurance,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,51,Information,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,55,Management of Companies and Enterprises,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,92,Public Administration,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,53,Real Estate and Rental and Leasing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,44-45,Retail Trade,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,48-49,Transportation and Warehousing,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,22,Utilities,TBD
+Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,42,Wholesale Trade,TBD
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2016Q1,42,Wholesale Trade,156
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2015Q1,42,Wholesale Trade,107
 Separations,Southern Maryland WIA,Maryland Separations by Industry,2018Q1,42,Wholesale Trade,159
@@ -3761,7 +3762,6 @@ Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,42,Whol
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,42,Wholesale Trade,6.7
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,7.199999999999999
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,42,Wholesale Trade,5.8999999999999995
-Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,42,Wholesale Trade,0
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2020Q4,42,Wholesale Trade,42
 Job Change,Southern Maryland WIA,Maryland Job Net Change by Industry,2017Q3,42,Wholesale Trade,-66
 Turnover,Southern Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,42,Wholesale Trade,7.9

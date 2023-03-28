@@ -76,6 +76,26 @@ New Hires,Montgomery WIA,Maryland New Hires by Industry,2021Q2,72,Accommodation 
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2019Q3,72,Accommodation and Food Services,8701
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2016Q4,72,Accommodation and Food Services,8255
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2021Q4,72,Accommodation and Food Services,7728
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,72,Accommodation and Food Services,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,62,Health Care and Social Assistance,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,23,Construction,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,61,Educational Services,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,52,Finance and Insurance,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,51,Information,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,55,Management of Companies and Enterprises,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,31-33,Manufacturing,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,81,Other Services (except Public Administration),TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,92,Public Administration,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,53,Real Estate and Rental and Leasing,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,44-45,Retail Trade,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,48-49,Transportation and Warehousing,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,22,Utilities,TBD
+Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,42,Wholesale Trade,TBD
 Separations,Montgomery WIA,Maryland Separations by Industry,2017Q1,72,Accommodation and Food Services,7672
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q1,72,Accommodation and Food Services,7355
 Separations,Montgomery WIA,Maryland Separations by Industry,2022Q1,72,Accommodation and Food Services,6488
@@ -182,7 +202,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,72,Accommodati
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,72,Accommodation and Food Services,14.099999999999998
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q3,56,Administrative and Support and Waste Management and Remediation Services,8804
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,72,Accommodation and Food Services,13.5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,72,Accommodation and Food Services,0
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2017Q2,61,Educational Services,5392
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2021Q3,61,Educational Services,4204
 Earnings,Montgomery WIA,Maryland Average Earnings by Industry,2020Q4,61,Educational Services,5824
@@ -478,7 +497,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q1,62,Health Care
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,62,Health Care and Social Assistance,7.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,4.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,62,Health Care and Social Assistance,7.6
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,62,Health Care and Social Assistance,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,62,Health Care and Social Assistance,9.2
 New Hires,Montgomery WIA,Maryland New Hires by Industry,2020Q1,52,Finance and Insurance,1226
 Workers,Montgomery WIA,Maryland Workers by Industry,2018Q1,92,Public Administration,15656
@@ -657,7 +675,6 @@ New Hires,Montgomery WIA,Maryland New Hires by Industry,2020Q3,54,"Professional,
 Separations,Montgomery WIA,Maryland Separations by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",6628
 Separations,Montgomery WIA,Maryland Separations by Industry,2021Q1,54,"Professional, Scientific, and Technical Services",6843
 Separations,Montgomery WIA,Maryland Separations by Industry,2020Q3,54,"Professional, Scientific, and Technical Services",5964
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,54,"Professional, Scientific, and Technical Services",0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2016Q4,E2,"High school or equivalent, no college",0.078
 Turnover,Montgomery WIA,Maryland Turnover Rate by Education,2018Q1,E2,"High school or equivalent, no college",0.078
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q4,54,"Professional, Scientific, and Technical Services",7.5
@@ -913,7 +930,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,56,Administrat
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,56,Administrative and Support and Waste Management and Remediation Services,11.899999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,56,Administrative and Support and Waste Management and Remediation Services,11.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,56,Administrative and Support and Waste Management and Remediation Services,11.5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,56,Administrative and Support and Waste Management and Remediation Services,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,56,Administrative and Support and Waste Management and Remediation Services,11.799999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,12.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,56,Administrative and Support and Waste Management and Remediation Services,12.8
@@ -1120,7 +1136,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,11,"Agricultur
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2016Q2,2,Female,3851
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender,2016Q3,2,Female,-2576
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",11.1
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
 Job Change,Montgomery WIA,Maryland Job Net Change by Gender All,2020Q2,0,All,-18288
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",10.9
 Workers,Montgomery WIA,Maryland Workers by Age,2018Q1,A08,65-99,29865
@@ -1314,7 +1329,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,71,"Arts, Ente
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",18.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,71,"Arts, Entertainment, and Recreation",10.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,71,"Arts, Entertainment, and Recreation",12.2
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,71,"Arts, Entertainment, and Recreation",0
 Workers,Montgomery WIA,Maryland Workers by Industry,2018Q2,44-45,Retail Trade,45040
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,71,"Arts, Entertainment, and Recreation",12.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,71,"Arts, Entertainment, and Recreation",12.4
@@ -1472,7 +1486,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,23,Constructio
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,23,Construction,7.8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,23,Construction,8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,23,Construction,7.8
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,23,Construction,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,23,Construction,7.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,23,Construction,9
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,23,Construction,8.5
@@ -1631,7 +1644,6 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2021Q4,61,Educationa
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,61,Educational Services,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,61,Educational Services,3.8
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,61,Educational Services,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,61,Educational Services,4.1000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,61,Educational Services,4.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,61,Educational Services,5
@@ -1793,7 +1805,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,52,Finance and
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finance and Insurance,5.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,4.9
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,52,Finance and Insurance,5.5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,52,Finance and Insurance,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,52,Finance and Insurance,6.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,52,Finance and Insurance,5.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance and Insurance,6.2
@@ -1955,7 +1966,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,51,Information
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,51,Information,6.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,51,Information,8.4
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,51,Information,7.000000000000001
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,51,Information,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,51,Information,6.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,51,Information,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,51,Information,6.2
@@ -2114,7 +2124,6 @@ Separations,Montgomery WIA,Maryland Separations by Industry,2021Q4,55,Management
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,55,Management of Companies and Enterprises,4.8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,55,Management of Companies and Enterprises,5.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,55,Management of Companies and Enterprises,5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,55,Management of Companies and Enterprises,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,55,Management of Companies and Enterprises,5.3
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,7.5
@@ -2278,7 +2287,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,31-33,Manufact
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,31-33,Manufacturing,4.8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,31-33,Manufacturing,5.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,31-33,Manufacturing,5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,31-33,Manufacturing,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,31-33,Manufacturing,5.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q2,31-33,Manufacturing,4.7
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q2,31-33,Manufacturing,5.3
@@ -2435,7 +2443,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Qu
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",7.5
@@ -2589,7 +2596,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q1,81,Other Servi
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,81,Other Services (except Public Administration),6.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),9.700000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,81,Other Services (except Public Administration),9.3
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,81,Other Services (except Public Administration),0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,81,Other Services (except Public Administration),7.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,81,Other Services (except Public Administration),8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q2,81,Other Services (except Public Administration),9.2
@@ -2907,7 +2913,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,92,Public Admi
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,92,Public Administration,2.8000000000000003
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,92,Public Administration,3.5000000000000004
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,92,Public Administration,6.1
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,92,Public Administration,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,92,Public Administration,4.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,92,Public Administration,3.8
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,92,Public Administration,4.5
@@ -3064,7 +3069,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real Estate and Rental and Leasing,7.000000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,53,Real Estate and Rental and Leasing,6.6000000000000005
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,53,Real Estate and Rental and Leasing,6.800000000000001
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,53,Real Estate and Rental and Leasing,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,53,Real Estate and Rental and Leasing,6.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,53,Real Estate and Rental and Leasing,6.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,53,Real Estate and Rental and Leasing,7.000000000000001
@@ -3230,7 +3234,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,44-45,Retail T
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,44-45,Retail Trade,11.200000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Retail Trade,11.4
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,11.5
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,44-45,Retail Trade,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,44-45,Retail Trade,12.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q2,44-45,Retail Trade,9.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,44-45,Retail Trade,9.8
@@ -3394,7 +3397,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q1,48-49,Transpor
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,48-49,Transportation and Warehousing,7.6
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,48-49,Transportation and Warehousing,6.800000000000001
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,10.2
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,48-49,Transportation and Warehousing,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,48-49,Transportation and Warehousing,8.799999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,48-49,Transportation and Warehousing,7.3999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,48-49,Transportation and Warehousing,13.3
@@ -3565,7 +3567,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q1,22,Utilities,2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,3.5000000000000004
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2019Q1,22,Utilities,5.4
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,4.9
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,22,Utilities,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,22,Utilities,2.5
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,22,Utilities,5.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q2,22,Utilities,3.3000000000000003
@@ -3729,7 +3730,6 @@ Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2016Q1,42,Wholesale T
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,6.2
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,7.199999999999999
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q1,42,Wholesale Trade,7.7
-Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2022Q1,42,Wholesale Trade,0
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2018Q2,42,Wholesale Trade,6.1
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2015Q2,42,Wholesale Trade,7.3999999999999995
 Turnover,Montgomery WIA,Maryland Turnover Rate by Industry,2021Q1,42,Wholesale Trade,7.9

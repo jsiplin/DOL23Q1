@@ -1,4 +1,24 @@
 Measure,Location,Indicator,Time,Indicator_Status,Indicator_Value,Amount,Unemployment_Rate
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,72,Accommodation and Food Services,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,56,Administrative and Support and Waste Management and Remediation Services,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,23,Construction,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,62,Health Care and Social Assistance,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,61,Educational Services,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,11,"Agriculture, Forestry, Fishing and Hunting",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,52,Finance and Insurance,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,51,Information,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,71,"Arts, Entertainment, and Recreation",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,55,Management of Companies and Enterprises,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,31-33,Manufacturing,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,81,Other Services (except Public Administration),TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,54,"Professional, Scientific, and Technical Services",TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,92,Public Administration,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,53,Real Estate and Rental and Leasing,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,44-45,Retail Trade,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,48-49,Transportation and Warehousing,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,22,Utilities,TBD
+Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,42,Wholesale Trade,TBD
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2021Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",18
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,72,Accommodation and Food Services,1385
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2018Q1,72,Accommodation and Food Services,1422
@@ -58,7 +78,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q2,72,Acco
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q1,56,Administrative and Support and Waste Management and Remediation Services,2993
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,72,Accommodation and Food Services,15.299999999999999
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,2335
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,72,Accommodation and Food Services,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,72,Accommodation and Food Services,15.4
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q1,56,Administrative and Support and Waste Management and Remediation Services,-66
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q2,56,Administrative and Support and Waste Management and Remediation Services,340
@@ -144,7 +163,6 @@ Separations,Western Maryland WIA,Maryland Separations by Industry,2017Q1,56,Admi
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q4,23,Construction,460
 Separations,Western Maryland WIA,Maryland Separations by Industry,2020Q1,23,Construction,737
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,56,Administrative and Support and Waste Management and Remediation Services,13.3
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,56,Administrative and Support and Waste Management and Remediation Services,0
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q3,23,Construction,966
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,23,Construction,7.3
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,23,Construction,7.6
@@ -288,7 +306,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q4,21,"M
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",27
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2017Q3,21,"Mining, Quarrying, and Oil and Gas Extraction",-11
 Job Change,Western Maryland WIA,Maryland Job Net Change by Industry,2019Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",-15
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,23,Construction,0
 New Hires,Western Maryland WIA,Maryland New Hires by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",47
 Separations,Western Maryland WIA,Maryland Separations by Industry,2015Q3,23,Construction,1097
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q4,72,Accommodation and Food Services,13.700000000000001
@@ -639,7 +656,6 @@ Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2021Q2,A0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,62,Health Care and Social Assistance,8.200000000000001
 Earnings,Western Maryland WIA,Maryland Average Monthly Earnings by Age,2020Q4,A08,65-99,3771
 Job change,Western Maryland WIA,Maryland Job Net Change by Education All,2018Q2,E0,All Education Categories,1943
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,62,Health Care and Social Assistance,0
 Separations,Western Maryland WIA,Maryland Separations by Education All,2015Q2,E0,All Education Categories,15405
 Separations,Western Maryland WIA,Maryland Separations by Education All,2021Q2,E0,All Education Categories,17500
 Separations,Western Maryland WIA,Maryland Separations by Education All,2020Q3,E0,All Education Categories,15021
@@ -1116,7 +1132,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,61,Educa
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,61,Educational Services,10.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,61,Educational Services,8
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,61,Educational Services,4.5
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,61,Educational Services,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,61,Educational Services,3.8
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,61,Educational Services,9.8
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,61,Educational Services,3.2
@@ -1193,7 +1208,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,11,"Agri
 Job Change,Western Maryland WIA,Maryland Job Net Change by Gender All,2017Q3,0,All,-1153
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,11,"Agriculture, Forestry, Fishing and Hunting",12.7
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2015Q1,52,Finance and Insurance,4882
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,11,"Agriculture, Forestry, Fishing and Hunting",0
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2016Q1,52,Finance and Insurance,5179
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,11,"Agriculture, Forestry, Fishing and Hunting",9.1
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2017Q1,52,Finance and Insurance,5377
@@ -1434,7 +1448,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,52,Finan
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,52,Finance and Insurance,9.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,52,Finance and Insurance,6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,52,Finance and Insurance,7.8
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,52,Finance and Insurance,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,52,Finance and Insurance,6.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,52,Finance and Insurance,6.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,52,Finance and Insurance,8.799999999999999
@@ -1660,12 +1673,10 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,71,"Arts
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,51,Information,7.8
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,71,"Arts, Entertainment, and Recreation",12.4
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,71,"Arts, Entertainment, and Recreation",18.3
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,51,Information,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,71,"Arts, Entertainment, and Recreation",18.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,71,"Arts, Entertainment, and Recreation",28.599999999999998
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,51,Information,6.800000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,51,Information,9.2
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,71,"Arts, Entertainment, and Recreation",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q3,51,Information,7.8
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q2,51,Information,8.4
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,51,Information,6.7
@@ -1854,7 +1865,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,55,Manag
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,55,Management of Companies and Enterprises,4.8
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,55,Management of Companies and Enterprises,4.3999999999999995
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,55,Management of Companies and Enterprises,6
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,55,Management of Companies and Enterprises,0
 Workers,Western Maryland WIA,Maryland Workers by Industry,2019Q2,71,"Arts, Entertainment, and Recreation",1488
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,55,Management of Companies and Enterprises,3.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,55,Management of Companies and Enterprises,4.9
@@ -2052,7 +2062,6 @@ Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2019Q4,23,Co
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,31-33,Manufacturing,5.4
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,31-33,Manufacturing,6.1
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2020Q4,23,Construction,5027
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,31-33,Manufacturing,0
 Earnings,Western Maryland WIA,Maryland Average Earnings by Industry,2021Q4,23,Construction,5128
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,31-33,Manufacturing,5.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,31-33,Manufacturing,4.3999999999999995
@@ -2316,7 +2325,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q3,23,Const
 Separations,Western Maryland WIA,Maryland Separations by Industry,2021Q4,21,"Mining, Quarrying, and Oil and Gas Extraction",41
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",8.799999999999999
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",7.8
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",3.6999999999999997
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,21,"Mining, Quarrying, and Oil and Gas Extraction",5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,21,"Mining, Quarrying, and Oil and Gas Extraction",5.3
@@ -2607,7 +2615,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,81,Other
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,81,Other Services (except Public Administration),7.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,81,Other Services (except Public Administration),6.6000000000000005
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,81,Other Services (except Public Administration),8.4
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,81,Other Services (except Public Administration),0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,81,Other Services (except Public Administration),8.200000000000001
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,81,Other Services (except Public Administration),7.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,81,Other Services (except Public Administration),7.5
@@ -2761,7 +2768,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,54,"Prof
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,54,"Professional, Scientific, and Technical Services",8.4
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,54,"Professional, Scientific, and Technical Services",9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,54,"Professional, Scientific, and Technical Services",11.5
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,54,"Professional, Scientific, and Technical Services",0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,54,"Professional, Scientific, and Technical Services",8.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,54,"Professional, Scientific, and Technical Services",8.799999999999999
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,54,"Professional, Scientific, and Technical Services",9.1
@@ -2923,7 +2929,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,92,Publi
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,92,Public Administration,3.5000000000000004
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,92,Public Administration,2.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,92,Public Administration,2.8000000000000003
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,92,Public Administration,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,92,Public Administration,3.5000000000000004
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,92,Public Administration,3.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q2,92,Public Administration,0
@@ -3086,7 +3091,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,53,Real 
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,53,Real Estate and Rental and Leasing,9.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q1,53,Real Estate and Rental and Leasing,8.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,53,Real Estate and Rental and Leasing,7.8
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,53,Real Estate and Rental and Leasing,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,53,Real Estate and Rental and Leasing,10.4
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,53,Real Estate and Rental and Leasing,8.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,53,Real Estate and Rental and Leasing,8.1
@@ -3251,7 +3255,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,44-45,Re
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,44-45,Retail Trade,10.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,44-45,Retail Trade,12.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,44-45,Retail Trade,9.9
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,44-45,Retail Trade,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,44-45,Retail Trade,9.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,44-45,Retail Trade,9.4
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,44-45,Retail Trade,9.700000000000001
@@ -3412,7 +3415,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,48-49,Tr
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,48-49,Transportation and Warehousing,10.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,48-49,Transportation and Warehousing,8.1
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q2,48-49,Transportation and Warehousing,7.8
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,48-49,Transportation and Warehousing,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q2,48-49,Transportation and Warehousing,7.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q2,48-49,Transportation and Warehousing,7.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q2,48-49,Transportation and Warehousing,8.9
@@ -3569,7 +3571,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,22,Utili
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,22,Utilities,3.2
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,22,Utilities,1.7999999999999998
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,22,Utilities,3.1
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,22,Utilities,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,22,Utilities,1.7000000000000002
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,22,Utilities,2.6
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q2,22,Utilities,3.9
@@ -3731,7 +3732,6 @@ Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2016Q1,42,Whole
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2017Q1,42,Wholesale Trade,7.5
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2018Q1,42,Wholesale Trade,7.7
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2019Q1,42,Wholesale Trade,8.6
-Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2022Q1,42,Wholesale Trade,0
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2020Q1,42,Wholesale Trade,7.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2015Q2,42,Wholesale Trade,7.9
 Turnover,Western Maryland WIA,Maryland Turnover Rate by Industry,2021Q1,42,Wholesale Trade,8.799999999999999
