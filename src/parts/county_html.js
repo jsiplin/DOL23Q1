@@ -120,7 +120,7 @@ export let counties_empl_vet = `
       <table id="empl_vet_table">
       </table>
       <div class="Footer">
-        <p id="empl_vet_chart_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: December 18, 2022)<br><br>"S" Represents suppressed counts that are less than 3.</p>
+        <p id="empl_vet_chart_footer">Source: American Community Survey 5-Year Estimates (Date Last Accessed: March 18, 2023)<br><br>"S" Represents suppressed counts that are less than 3.</p>
       </div>
     </div>
   </div>
